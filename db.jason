@@ -1,0 +1,20 @@
+{
+  "score": [
+    {
+      "user_id": 1,
+      "score": 5
+    },
+    {
+      "user_id": 2,
+      "score": 10
+    },
+    {
+      "user_id": 3,
+      "score": 3
+    },
+    {
+      "user_id": 4,
+      "score": 20
+    }
+  ]
+}

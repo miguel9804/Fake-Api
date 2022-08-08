@@ -3,24 +3,24 @@
     {
         "scores":   [
       {
-        "user_id": 1,
-        "score": 5
+        "user":"Miguel",
+        "score": 10
       },
       {
-        "user_id":2,
-        "score": 2
-      },
-      {
-        "user_id":3,
+        "user":"Andres",
         "score": 4
       },
       {
-        "user_id":4,
-        "score": 14
+        "user":"Juan",
+        "score": 6
       },
       {
-        "user_id":5,
-        "score": 10
+        "user":"Isabella",
+        "score": 20
+      },
+      {
+        "user":"Ximena",
+        "score": 12
       }
         ] 
     }
